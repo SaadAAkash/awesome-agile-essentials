@@ -85,4 +85,4 @@ In the 1990's, to cope with the requirement changes in dynamic scenario, a new f
 
 The popularity of iterative software/product development in the 1990's, in turn, motivated a new set of methodologies such as Extreme Programming (XP), SCRUM, and Kanban. 
 
-In 2002, some visionaries in the field of software development condensed what they had learned into a set of principles called the `Agile Manifesto`, which crystallized the arrival of Agile development practices into the world
+In 2002, some visionaries in the field of software development condensed what they had learned into a set of principles called the [Agile Manifesto](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto), which crystallized the arrival of Agile development practices into the world
