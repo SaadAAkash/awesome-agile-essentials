@@ -1,4 +1,7 @@
 # Waterfall VS Interative Approaches to Software Development
+
+![Waterfall VS Iterative](https://github.com/SaadAAkash/awesome-agile-essentials/blob/resources/resources/waterfallvsiterative.png)
+<p align="center">Source: http://crmsearch.eu/agile-versus-waterfall-crm.php</p>
  
 ## Waterfall Model
  
