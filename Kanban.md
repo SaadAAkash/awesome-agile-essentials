@@ -1,6 +1,6 @@
 ## Kanban
 
-![Kanban](https://github.com/SaadAAkash/awesome-agile-essentials/blob/resources/resources/kanban.jpg)
+![Kanban](https://github.com/SaadAAkash/awesome-agile-essentials/blob/master/resources/kanban.jpg)
 <p align="center">Source: https://lifehacker.com/productivity-101-how-to-use-personal-kanban-to-visuali-1687948640</p>
 
 ### Definitions
