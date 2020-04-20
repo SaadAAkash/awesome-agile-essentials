@@ -10,5 +10,12 @@ An awesome list of concepts &amp; resources of Agile Software Development, curat
 ## Types of Agile Methodology
 - [Lean]()
 - [Scrum](Scrum.md)
-- [Kanban]()
+- [Kanban](Kanban.md)
 - [Extreme Programming (XP)]()
+
+## User Stories
+- [Effective User Stories](User-Stories.md)
+- [Definition of Done](Definition-of-Done.md)
+
+## Engineering and Tests
+- [Acceptance Testing](Acceptance-Testing.md)
