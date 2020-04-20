@@ -1,5 +1,8 @@
 ## Scrum
 
+![Scrum](https://github.com/SaadAAkash/awesome-agile-essentials/blob/master/resources/scrum.jpg)
+<p align="center">Credits: https://www.crystalloids.com</p>
+
 ### Definitions
 
 A framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value.
