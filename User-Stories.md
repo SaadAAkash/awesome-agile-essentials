@@ -2,14 +2,14 @@
 
 ### Definitions
 
-Sshort descriptions of a product enhancement (i.e., a product feature) expressed in a specific format. User Stories are simplified requirements
+Short descriptions of a product enhancement (i.e., a product feature) expressed in a specific format. User Stories are simplified requirements
 
 ### User Story Format with Examples
 
 > As a `the user role`, I want `the goal` so that `the rationale` 
 
 - Example 01: As an *Open Source Enthusiast*, I want *to contribute into more repositories* so that *people get benefited in the process*
-- Example 02: As a *Project Manager*, I want *to be able to understand my colleagues progress* so that *I can make efficient reports on sucess and failures*
+- Example 02: As a *Project Manager*, I want *to be able to understand my colleagues progress* so that *I can make efficient reports on success and failures*
 
 ### Characteristics of good user stories: The INVEST Model in Scrum
 
@@ -20,7 +20,7 @@ Coined by Bill Wake in his book `Extreme Programming Explored`, INVEST is an acr
 
 by Bill Wake
 
-1. Independent: Stories should not be dependent on other stories. No overlapping across one another in terms of functionality, ensures flexibility of working regardless of order
+1. Independent: Stories should not be dependent on other stories. No overlapping across one another in terms of functionality ensures flexibility of working regardless of order
 2. Negotiable: Stories should capture the essence of the requirement and should not represent a contract on how to solve it.
 3. Valuable: Stories should clearly and perceivably illustrate value to the customer.
 4. Estimable: Stories should provide just enough information so they can be estimated. However, it's not important to know the exact way that a particular problem will be solved. 
@@ -30,7 +30,7 @@ by Bill Wake
 ### Epics VS User Stories
 
 - Large user stories are called epics. Decomposing (or splitting) them into individual parts creates user stories.
-- There is no point spending time on breaking down epics that are low priority. 
+- There is no point in spending time on breaking down epics that are low priority. 
 
 ### The Big Three Question checklist for effectiveness
 
