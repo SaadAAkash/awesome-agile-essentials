@@ -14,6 +14,7 @@ An awesome list of concepts &amp; resources of Agile Software Development, curat
 - [Extreme Programming (XP)]()
 
 ## User Stories
+- [Epics, Stories, Themes, and Initiatives](https://www.atlassian.com/agile/project-management/epics-stories-themes)
 - [Effective User Stories](User-Stories.md)
 - [Definition of Done](Definition-of-Done.md)
 
