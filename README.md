@@ -49,6 +49,7 @@ An awesome list of concepts &amp; resources of Agile Software Development, curat
   - [PROFESSIONAL SCRUM DEVELOPER™ CERTIFICATION](https://www.scrum.org/professional-scrum-developer-certification)
   - [Reasons Why Scrum Can Fail](http://www.scrumexpert.com/knowledge/reasons-why-scrum-can-fail/) - by John Yorke. "In essence, I am saying that Scrum fails when those in the named roles fail to live up to the role. This can also include cases where a role isn’t named or when someone or more than one person steps-up into that role. But in either case, if those mindsets are not present on the team it is a recipe for failure."
   - [Product Backlog Grooming Best Practices: What it is and Why it’s Critical](https://medium.com/back-to-the-napkin/product-backlog-grooming-best-practices-what-it-is-and-why-its-critical-e1f290bdee78)
+  - [Nexus, the Framework for Scaling Scrum](https://www.scrum.org/resources/nexus-guide)
 
 2. Kanban
   - [Personal Kanban](https://www.personalkanban.com/pk/book/) - by Author Jim Benson
