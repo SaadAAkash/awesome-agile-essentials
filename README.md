@@ -20,3 +20,19 @@ An awesome list of concepts &amp; resources of Agile Software Development, curat
 
 ## Engineering and Tests
 - [Acceptance Testing](Acceptance-Testing.md)
+
+## Free Courses
+- [Scrum Training Series](http://scrumtrainingseries.com/)
+- [Scrum 101](https://scrum101.com/)
+- [Volkerdon Training Series](https://www.volkerdon.com/courses/)
+
+## Professional Scrum Master level I (PSM I) Study Materials
+- [PSM I Assessment (Free)](https://www.volkerdon.com/courses/psm1)
+- [PSM I™ Preparation Quiz – Real Mode](https://mlapshin.com/index.php/scrum-quizzes/sm-real-mode/)
+- [PSM Exam Study Tips](https://mlapshin.com/index.php/2015/09/08/psm-exam/)
+- [How to prepare for and pass the PSM I exam](https://psm.certification.guide/)
+- [Scrum.org PSM I Study Tips](https://web.archive.org/web/20180215194840/http://www.scrumcrazy.com/Scrum.org+PSM+I+Study+Tips)
+
+## The Professional Scrum Product Owner level 1 (PSPO 1) Study Materials
+- [PSPO I Assessment (Free)](https://www.volkerdon.com/courses/pspo1)
+
