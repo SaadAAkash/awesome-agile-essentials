@@ -63,7 +63,7 @@ An awesome list of concepts &amp; resources of Agile Software Development, curat
   
 4. DoD
   - [DONE Understanding Of The Definition Of "Done”](https://www.scrum.org/resources/blog/done-understanding-definition-done)
-  - [Definition of Done](https://www.agilealliance.org/glossary/definition-of-done/))
+  - [Definition of Done](https://www.agilealliance.org/glossary/definition-of-done/)
   - [Agile Best Practices: The Definition of Done](https://www.youtube.com/watch?v=y9MYd6CCDwM)
   
 5. Acceptance Testing
