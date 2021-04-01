@@ -48,8 +48,9 @@ An awesome list of concepts &amp; resources of Agile Software Development, curat
 - [Volkerdon Training Series](https://www.volkerdon.com/courses/)
 
 ## Study Materials: Professional Scrum Master level I (PSM I)
-- [PSM I Assessment (Free)](https://www.volkerdon.com/courses/psm1)
+- [Suggested Reading for Professional Scrum Master™ I](https://www.scrum.org/resources/suggested-reading-professional-scrum-master)
 - [PSM I™ Preparation Quiz – Real Mode](https://mlapshin.com/index.php/scrum-quizzes/sm-real-mode/)
+- [PSM I Assessment (Free)](https://www.volkerdon.com/courses/psm1)
 - [PSM Exam Study Tips](https://mlapshin.com/index.php/2015/09/08/psm-exam/)
 - [How to prepare for and pass the PSM I exam](https://psm.certification.guide/)
 - [Scrum.org PSM I Study Tips](https://web.archive.org/web/20180215194840/http://www.scrumcrazy.com/Scrum.org+PSM+I+Study+Tips)
@@ -89,6 +90,7 @@ An awesome list of concepts &amp; resources of Agile Software Development, curat
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
+| [Creating Effective Sprint Goals](https://www.romanpichler.com/blog/effective-sprint-goals/)| Working with a sprint goal is a powerful agile practice. This post helps you understand what sprint goals are, why they matter, how to write and how to track them |
 | [Getting good user stories from business analysts](https://agilekrc.com/agile-practices/user-stories/user-stories-requirements-from-agile-business-analysts)| 7 things to keep in mind when writing good requirements |
 | [10 Tips for Writing Good User Stories](https://www.romanpichler.com/blog/10-tips-writing-good-user-stories/)| User stories are probably the most popular agile technique to capture product functionality: Working with user stories is easy. But telling effective stories can be hard. |
 | [Identifying and Improving Bad User Stories](https://www.agileconnection.com/article/identifying-and-improving-bad-user-stories) | Charles Suscheck and Andrew Fuqua explain some common failure patterns that will help you focus on the right role, value, and business functionality when writing stories |
