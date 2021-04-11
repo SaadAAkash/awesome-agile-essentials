@@ -46,6 +46,7 @@ An awesome list of concepts &amp; resources of Agile Software Development, curat
 - [Scrum Training Series](http://scrumtrainingseries.com/)
 - [Scrum 101](https://scrum101.com/)
 - [Volkerdon Training Series](https://www.volkerdon.com/courses/)
+- [Scrum Foundations Training by Mike Cohn, Mountain Goat Software](https://www.mountaingoatsoftware.com/exclusive/scrum-foundations)
 
 ## Study Materials: Professional Scrum Master level I (PSM I)
 - [Suggested Reading for Professional Scrum Master™ I](https://www.scrum.org/resources/suggested-reading-professional-scrum-master)
