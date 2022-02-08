@@ -3,7 +3,7 @@
 ### Definitions
 
 A formal description of the behavior of a software product, generally expressed as an example or a usage scenario
-[[Source: Agile Alliance]https://www.agilealliance.org/glossary/acceptance/))]
+[Source: Agile Alliance](https://www.agilealliance.org/glossary/acceptance/)
 
 ### The 3 Cs: Card, Conversation, Confirmation
 
